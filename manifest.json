@@ -1,0 +1,26 @@
+{
+  "short_name": "Saumya Path",
+  "name": "Saumya Path – A-to-Z Career Builder & Learning Platform",
+  "description": "An AI-driven educational platform that provides both technical and non-technical learning resources across all career sectors. It empowers users to learn, grow, and build successful careers with a personalized career roadmap.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a3a7d",
+  "background_color": "#ffffff"
+}
